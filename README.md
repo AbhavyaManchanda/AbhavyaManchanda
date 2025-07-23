@@ -29,7 +29,7 @@ Currently building cool stuff with Java, Spring Boot, and React – because slee
 
 ### 📫 How to Reach Me
 - 📧 [abhavyaa19@gmail.com](mailto:abhavyaa19@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/abhavya1905)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abhavyamanchanda19/)
 - 🔗 [LeetCode](https://leetcode.com/u/abhavya1905/)
 - 🗃️ Portfolio: coming soon (unless procrastination wins again)
 
